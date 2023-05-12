@@ -22,7 +22,7 @@
 
 <h2>About me </h2>
 
-I am a Data Science  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Data Scientist  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 - :telescope: I’m working as a MIS Executive at Aditya Birla Group and contributing to Data Analyst community.
 
