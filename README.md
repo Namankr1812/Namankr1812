@@ -51,7 +51,12 @@ I am a Data Scientist  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
 <h1>My work experience</h1>
 
-| Aditya Birla Group | Period of work (04/2023 - Present) |
+
+| Axcess.io | Period of work (10/2023 - Present) |
+|:---------:|:----------------------------------:|
+| Software Developer | Working with Machine learning and AWS Services |
+
+| Aditya Birla Group | Period of work (04/2023 - 10/2023) |
 |:---------:|:----------------------------------:|
 | MIS-Executive | Working with Advance Excel and Power-BI |
 
