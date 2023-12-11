@@ -24,9 +24,9 @@
 
 I am a Data Scientist  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- :telescope: I’m working as a MIS Executive at Aditya Birla Group and contributing to Data Analyst community.
+- :telescope: I’m working as a Software Developer at Axcess.io and contributing to Data Science and AWS community.
 
-- :seedling: Exploring Machine Learning ,Deep Learning and Artificial Intelligence.
+- :seedling: Exploring AWS Services ,Machine Learning ,Deep Learning and Artificial Intelligence.
 
 - :zap: In my free time, I solve problems on Kaggle from Kaggle Competion.
 
@@ -46,7 +46,8 @@ I am a Data Scientist  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
   <img src="https://img.shields.io/badge/Azure-00ADD8?style=for-the-badge&logo=Azure&logoColor=white" />
   <img src="https://img.shields.io/badge/Hadoop-CC342D?style=for-the-badge&logo=Hadoop&logoColor=white" />
   <img src="https://img.shields.io/badge/Web-Scrapping-5E5C5C?style=for-the-badge&logo=Web-Scrapping&logoColor=white" />
-   <img src="https://img.shields.io/badge/Power-BI-3776AB?style=for-the-badge&logo=Power-BI&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power-BI-3776AB?style=for-the-badge&logo=Power-BI&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-3776AB?style=for-the-badge&logo=AWS&logoColor=white" />
 </p>
 
 <h1>My work experience</h1>
